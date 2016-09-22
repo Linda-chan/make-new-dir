@@ -3,6 +3,10 @@ Backups/
 Tests/
 Old Versions/
 
+# Backups will be skipped too
+*.BAK
+*.BAK??
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
