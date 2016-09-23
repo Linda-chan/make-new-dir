@@ -1,7 +1,3 @@
-﻿- Добавить определение хвоста.
-- GUI (WScript) mode, как было раньше.
+﻿- GUI (WScript) mode, как было раньше.
   Отдельная функция Msg(Text, FileName)
-- Разбить на модули.
-  Перенести шапку в WSF.
-  В Gelbooru MD5 тоже!
 - /ReverseSearch
